@@ -8,6 +8,9 @@
 
 ### I can include screenshots of the runtimes for 2017 and 2018 with the original code. The refactored code does not output the proper values to the worksheet, so it seems redundant to include screenshots of any code runtimes.
 
+![VBA_Challenge_2017_Original](https://user-images.githubusercontent.com/74624855/125227183-66aa1780-e2a0-11eb-9e43-d4a6bc311fb9.png)
+![VBA_Challenge_2018_Original](https://user-images.githubusercontent.com/74624855/125227189-690c7180-e2a0-11eb-9d7b-5c7b656c80a8.png)
+
 ## Summary
 
 ### I struggled with this challenge. I couldn’t get my code to properly calculate the values then to output to the worksheet. I was unable to set up an output for Returns (tickerEndingPrice / tickerStartingPrice) because the values were staying at zero and zero is not a divisible number.
