@@ -6,10 +6,14 @@
 
 ## Results
 
-### I can include screenshots of the runtimes for 2017 and 2018 with the original code. The refactored code does not output the proper values to the worksheet, so it seems redundant to include screenshots of any code runtimes.
-
+### Screenshots of runtimes are included for 2017 and 2018 with the original code, as well as for the refactored code. In this circumstance, the runtime were a touch slower for the refactored code, as per below:
+### Original Code 2017 (runtime: 0.68 seconds)
 ![VBA_Challenge_2017_Original](https://user-images.githubusercontent.com/74624855/125227183-66aa1780-e2a0-11eb-9e43-d4a6bc311fb9.png)
+### Refactored Code 2017 (runtime: 0.71 seconds)
+
+### Original Code 2018 (runtime: 0.67 seconds)
 ![VBA_Challenge_2018_Original](https://user-images.githubusercontent.com/74624855/125227189-690c7180-e2a0-11eb-9d7b-5c7b656c80a8.png)
+### Refactored Code 2018 (runtime: 0.71 seconds)
 
 ## Summary
 
