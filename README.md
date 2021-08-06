@@ -12,13 +12,13 @@
 ![VBA_Challenge_2017_Original](https://user-images.githubusercontent.com/74624855/125227183-66aa1780-e2a0-11eb-9e43-d4a6bc311fb9.png)
 
 ### Refactored Code 2017 (runtime: 0.71 seconds)
-<img width="368" alt="VBA_Challenge_2017_Refactored" src="https://user-images.githubusercontent.com/74624855/128508915-20bb0b4b-f5ad-48a5-8b85-1f6b335ce452.png">
+<img width="500" alt="VBA_Challenge_2017_Refactored" src="https://user-images.githubusercontent.com/74624855/128508915-20bb0b4b-f5ad-48a5-8b85-1f6b335ce452.png">
 
 ### Original Code 2018 (runtime: 0.67 seconds)
 ![VBA_Challenge_2018_Original](https://user-images.githubusercontent.com/74624855/125227189-690c7180-e2a0-11eb-9d7b-5c7b656c80a8.png)
 
 ### Refactored Code 2018 (runtime: 0.71 seconds)
-<img width="371" alt="VBA_Challenge_2018_Refactored" src="https://user-images.githubusercontent.com/74624855/128509008-9474e766-2ea0-48c9-b2ec-a67a5d6f79f8.png">
+<img width="500" alt="VBA_Challenge_2018_Refactored" src="https://user-images.githubusercontent.com/74624855/128509008-9474e766-2ea0-48c9-b2ec-a67a5d6f79f8.png">
 
 ## Summary
 
