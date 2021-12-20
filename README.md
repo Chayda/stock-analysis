@@ -2,7 +2,7 @@
 
 ## Overview of VBA Challenge
 
-### The purpose of this analysis is to assess multiple stock tickers, and to refactor VBA code to make it run more efficiently so it could potentially run over a larger amount of data. If the dataset were larger with more stock tickers it might slow down the original code, and the refactored code should run faster.
+#### The purpose of this analysis is to assess multiple stock tickers, and to refactor VBA code to make it run more efficiently so it could potentially run over a larger amount of data. If the dataset were larger with more stock tickers it might slow down the original code, and the refactored code should run faster.
 
 ## Results
 
@@ -26,4 +26,5 @@
 Refactoring can also make the code more clear for others to follow. Adding comments to explain the purpose of the lines can be helpful for other people who may need to work with the code.
 2. The goal for the refactored code was to have the runtime even faster so the code could be used to run over a larger index – more stock tickers that could be added to the tickers array. In the end the two codes ran in a similar amount of time.
 
-
+### Software/Tools:
+Microsoft Excel, VBA
